@@ -1,7 +1,7 @@
 # **Daily Tasks Done**
 ----
 
-### 28-05-2020
+### 28-05-2021
 - [x] Create repo for Design Journey
 - [x] Started learning about UX Design in depth
 - [x] Learned UX Design Process a bit

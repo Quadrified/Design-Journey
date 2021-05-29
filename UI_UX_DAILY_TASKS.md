@@ -9,3 +9,5 @@
 - [ ] Added UX Design Journey tasks
 - [ ] Added UI Design Journey tasks
 ---
+### 29-05-2021
+- [x] Learn Figma basics
